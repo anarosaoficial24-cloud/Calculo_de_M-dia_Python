@@ -1,2 +1,2 @@
-# Calculo_de_M-dia_Python
+# Calculo_de_Media_Python
 Calculadora de Média em Python
